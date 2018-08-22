@@ -1324,89 +1324,55 @@ var DocumentationRoutes = [{
         children: [{
                 path: 'tutorial',
                 component: _tutorial_tutorial_component__WEBPACK_IMPORTED_MODULE_0__["TutorialComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'modal',
                 component: _modal_modal_component__WEBPACK_IMPORTED_MODULE_1__["NgbdModalComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'navigation',
                 component: _navigation_navigation_component__WEBPACK_IMPORTED_MODULE_2__["NavigationComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'notification',
                 component: _notification_notification_component__WEBPACK_IMPORTED_MODULE_3__["NotificationComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'buttons',
                 component: _buttons_buttons_component__WEBPACK_IMPORTED_MODULE_4__["ButtonsComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'checkbox',
                 component: _checkbox_checkbox_component__WEBPACK_IMPORTED_MODULE_5__["CheckboxComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'radio',
                 component: _radio_radio_component__WEBPACK_IMPORTED_MODULE_6__["RadioComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'dropdown',
                 component: _dropdown_dropdown_component__WEBPACK_IMPORTED_MODULE_7__["DropdownComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'inputs',
                 component: _inputs_inputs_component__WEBPACK_IMPORTED_MODULE_8__["InputsComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'textarea',
                 component: _textarea_textarea_component__WEBPACK_IMPORTED_MODULE_9__["TextareaComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'pagination',
                 component: _pagination_pagination_component__WEBPACK_IMPORTED_MODULE_10__["PaginationComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'progressbar',
                 component: _progressbar_progressbar_component__WEBPACK_IMPORTED_MODULE_11__["ProgressbarComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'sliders',
                 component: _sliders_sliders_component__WEBPACK_IMPORTED_MODULE_12__["SlidersComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'datepicker',
                 component: _datepicker_datepicker_component__WEBPACK_IMPORTED_MODULE_14__["DatepickerComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'labels',
                 component: _labels_labels_component__WEBPACK_IMPORTED_MODULE_13__["LabelsComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'tooltips',
                 component: _tooltips_tooltips_component__WEBPACK_IMPORTED_MODULE_15__["TooltipsComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'popover',
                 component: _popover_popover_component__WEBPACK_IMPORTED_MODULE_16__["PopoverComponent"]
-            }]
-    }, { path: '',
-        children: [{
+            }, {
                 path: 'ng-bootstrap',
                 component: _ng_bootstrap_ng_bootstrap_component__WEBPACK_IMPORTED_MODULE_17__["NgBootstrapComponent"]
             }]
